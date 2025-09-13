@@ -1,52 +1,55 @@
 # 👋 Hi, I'm Likith!  
 
-🌟 A passionate developer who loves turning ideas into impactful projects.  
-I enjoy solving real-world problems through **web development, backend systems, IoT, cloud computing, and AI/ML applications**.  
+🌟 **Full-Stack Developer | Backend & Cloud Enthusiast | AI/ML & IoT Explorer**  
+
+I build impactful projects that solve **real-world problems** using modern technologies. My focus is on **Web Development, Backend Systems, Cloud Computing, IoT, AI/ML, and Blockchain**. I enjoy turning ideas into fully functional applications that make life easier and efficient.  
 
 ---
 
 ## 💻 Tech Stack
-- **Languages:** Java, Python, PHP, JavaScript, HTML5, CSS3  
-- **Frameworks & Tools:** Bootstrap, Firebase, MySQL  
-- **Exploring:** Blockchain, Digital Therapeutics, Intelligent Recommendation Systems  
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) 
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) 
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) 
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🔹 Completed
-- **Career Guidance System**  
-  AI-driven platform for career recommendations, skill suggestions, and resume generation.  
-- **Smart Parcel Box Notification System (IoT)**  
-  Raspberry Pi–based project for real-time parcel notifications with buzzers & sensors.  
-- **Clinic Management System**  
-  A simple yet effective system to manage patient and clinic data digitally.  
-- **Exam Hall Seating Arrangement**  
-  Automated exam seating system with student schedule notifications.  
-- **GasEase – Online Gas Booking System**  
-  A modern way to book and track gas cylinders with payment integration.  
-- **Soil Farming Agent**  
-  Helps farmers identify crops suited to different soil types using web + Firebase.  
+### 🔹 Completed Projects
+- **Career Guidance System** – AI-driven career recommendations & resume builder  
+- **Smart Parcel Box Notification System (IoT)** – Raspberry Pi-based automated parcel alerts  
+- **Clinic Management System** – Simplified patient and clinic management  
+- **Exam Hall Seating Arrangement** – Automated seat allocation with notifications  
+- **GasEase – Online Gas Booking System** – Modern platform for gas cylinder booking  
+- **Soil Farming Agent** – Crop suggestions based on soil type  
 
 ### 🔹 Currently Working On
-- **Upgrading Career Guidance System**  
-  Adding ATS-friendly resume templates, aptitude & technical tests, and smarter recommendations.  
-- **Voice-Based Email System for the Visually Impaired**  
-  An accessible email solution using **Speech Recognition + gTTS + Python**.  
-- **Societal Projects**  
-  Exploring free resources & APIs to build solutions for healthcare and education.  
+- **Upgrading Career Guidance System** – Adding ATS-friendly resume templates, aptitude & technical tests, smarter recommendations  
+- **Voice-Based Email System for Visually Impaired** – Speech recognition + TTS for sending and reading emails  
+- **Societal Projects** – Using free resources & APIs for healthcare and education solutions  
 
 ---
 
 ## 🌱 What Drives Me
-I believe technology should **solve real-world problems** and **make life easier**.  
-Every project I build is a chance to **learn, innovate, and contribute**.  
+I believe **technology should solve real-world problems**. Every project I work on is an opportunity to **learn, innovate, and contribute to society**.  
 
 ---
 
 ## 📫 Connect with Me
 
-- Email: likith.mallesh.14@gmail.com  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:likith.mallesh.14@gmail.com)  
 
 ---
-✨ *Always learning, always building!*  
+
+## 📊 GitHub Stats
+![Likith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+✨ *Always learning, always building!*
