@@ -41,6 +41,11 @@ I build impactful projects that solve **real-world problems** using modern techn
 I believe **technology should solve real-world problems**. Every project I work on is an opportunity to **learn, innovate, and contribute to society**.  
 
 ---
+## 🌱 What I'm Learning / Exploring
+- Advanced **Cloud Computing & AWS**  
+- **Machine Learning** & AI-powered recommendation systems  
+- **Blockchain** applications  
+- IoT-based **smart systems** for societal impact 
 
 ## 📫 Connect with Me
 
@@ -48,8 +53,7 @@ I believe **technology should solve real-world problems**. Every project I work 
 
 ---
 
-## 📊 GitHub Stats
-![Likith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
 
 ---
 ✨ *Always learning, always building!*
